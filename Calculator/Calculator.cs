@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
-    class Calculator
+    public class Calculator
     {
         public static double Divide(double first, double second)
         {
